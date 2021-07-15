@@ -1,0 +1,16 @@
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.exe
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.deps.json
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.runtimeconfig.json
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.runtimeconfig.dev.json
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.dll
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\ref\Platzy.dll
+F:\Nueva_carpeta\Platzy\bin\Debug\net5.0\Platzy.pdb
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.csprojAssemblyReference.cache
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.AssemblyInfoInputs.cache
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.AssemblyInfo.cs
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.csproj.CoreCompileInputs.cache
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.dll
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\ref\Platzy.dll
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.pdb
+F:\Nueva_carpeta\Platzy\obj\Debug\net5.0\Platzy.genruntimeconfig.cache
